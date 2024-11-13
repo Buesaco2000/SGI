@@ -110292,7 +110292,7 @@ case 7:m=d
 i=t.N
 l=A.G(i,i)
 if(m!=null)J.fB(l,"Authorization","Bearer "+A.f(m))
-k=A.hP("http://localhost:3000/"+a,0,null).P6(0,b)
+k=A.hP("https://webiso27001.onrender.com/"+a,0,null).P6(0,b)
 s=8
 return A.u(A.Ew().PB(0,k.gpg(),l,t.z),$async$k5)
 case 8:i=d
@@ -110327,7 +110327,7 @@ case 7:m=e
 i=t.N
 l=A.G(i,i)
 if(m!=null)J.fB(l,"Authorization","Bearer "+A.f(m))
-k=A.hP("http://localhost:3000/"+b+"/"+a,0,null).P6(0,c)
+k=A.hP("https://webiso27001.onrender.com/"+b+"/"+a,0,null).P6(0,c)
 s=8
 return A.u(A.Ew().PB(0,k.gpg(),l,t.z),$async$fz)
 case 8:i=e
@@ -110363,7 +110363,7 @@ i=t.N
 l=A.G(i,i)
 if(m!=null)J.fB(l,"Authorization","Bearer "+A.f(m))
 s=8
-return A.u(A.Ew().a3a("http://localhost:3000/"+a,b,l,t.z),$async$da)
+return A.u(A.Ew().a3a("https://webiso27001.onrender.com/"+a,b,l,t.z),$async$da)
 case 8:k=d
 q=k
 s=1
@@ -110658,7 +110658,7 @@ i=t.N
 l=A.G(i,i)
 if(m!=null)J.fB(l,"Authorization","Bearer "+A.f(m))
 s=8
-return A.u(A.Ew().a3a("http://localhost:3000/"+a,b,l,t.z),$async$da)
+return A.u(A.Ew().a3a("https://webiso27001.onrender.com/"+a,b,l,t.z),$async$da)
 case 8:k=d
 q=k
 s=1
@@ -110693,7 +110693,7 @@ j=t.N
 l=A.G(j,j)
 if(m!=null)J.fB(l,"Authorization","Bearer "+A.f(m))
 s=8
-return A.u(A.Ew().aCw(0,"http://localhost:3000/"+a+"/"+c,b,l,t.z),$async$lO)
+return A.u(A.Ew().aCw(0,"https://webiso27001.onrender.com/"+a+"/"+c,b,l,t.z),$async$lO)
 case 8:j=e
 q=j
 s=1
@@ -110729,7 +110729,7 @@ if(m!=null)J.fB(l,"Authorization","Bearer "+A.f(m))
 j=A.Ew()
 if(j.db)A.O("Can not emit events to disposed clients")
 s=8
-return A.u(j.gEG().DK(0,"http://localhost:3000/"+a+"/"+b,null,null,l,null,t.z),$async$lg)
+return A.u(j.gEG().DK(0,"https://webiso27001.onrender.com/"+a+"/"+b,null,null,l,null,t.z),$async$lg)
 case 8:j=d
 q=j
 s=1
